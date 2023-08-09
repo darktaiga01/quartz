@@ -4,9 +4,6 @@ tags:
 - resources
 ---
 
-#resource
-
-
 # Math
 https://machinelearningcoban.com/2018/10/03/conv2d - Blog ôn lại toán giải tích, xác suất, ma trận để sài cho Machine Learning + Deep Learning
 
