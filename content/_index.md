@@ -5,4 +5,6 @@ enableToc: false
 
 ## Resources
 
-[[Useful Link]]
+[Useful Link](notes/Useful Link.md)
+
+
